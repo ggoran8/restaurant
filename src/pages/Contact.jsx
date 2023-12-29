@@ -4,7 +4,10 @@ import Layout from '../fragments/Layout';
 const Contact = () => {
 	return (
 		<Layout>
-			<div>Contact</div>;
+			<div>
+				<p>Contact</p>
+			</div>
+			;
 		</Layout>
 	);
 };

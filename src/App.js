@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
-import { About, Contact, Home, Menu, Wines } from './pages';
+import { Home, Menu, About, Wines, Contact } from './pages';
 
 function App() {
 	return (

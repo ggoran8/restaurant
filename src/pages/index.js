@@ -4,3 +4,7 @@ export { default as About } from './About';
 export { default as Wines } from './Wines';
 export { default as Contact } from './Contact';
 export { default as space } from '../components/assets/pictures/space.jpg';
+export { default as github } from '../components/assets/icons/github.svg';
+export { default as twitter } from '../components/assets/icons/twitter.svg';
+export { default as linkedin } from '../components/assets/icons/linkedin.svg';
+export { default as circle } from '../components/assets/icons/circle.svg';

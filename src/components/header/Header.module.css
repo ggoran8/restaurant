@@ -1,4 +1,60 @@
-img {
-	width: 50px;
+.imageContainer {
+	width: 320px;
 	height: auto;
+	padding: 60px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.sideHeader {
+	display: flex;
+	flex-direction: column;
+	border-right: 1px solid rgb(65, 65, 65);
+	width: 320px;
+	min-height: 100svh;
+	position: sticky;
+	top: 0;
+}
+
+.firstNavList {
+	border-top: 1px solid rgb(65, 65, 65);
+}
+
+.circle {
+	margin-right: 8px;
+	transform: translateY(4px);
+}
+
+.secondList {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	margin-top: 100px;
+	gap: 20px;
+}
+
+.listItemIcons {
+	font-size: 0;
+	border: 1px solid rgb(65, 65, 65);
+	border-radius: 50%;
+	padding: 10px;
+}
+
+.listItem {
+	font-size: 20px;
+	padding: 8px 54px 8px 100px;
+	border-bottom: 1px solid rgb(65, 65, 65);
+	list-style-type: none;
+	text-transform: uppercase;
+}
+
+.listItemText {
+	color: white;
+}
+
+a {
+	text-decoration: none;
 }

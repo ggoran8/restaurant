@@ -4,7 +4,10 @@ import Layout from '../fragments/Layout';
 const About = () => {
 	return (
 		<Layout>
-			<div>About</div>;
+			<div>
+				<p>About</p>
+			</div>
+			;
 		</Layout>
 	);
 };

@@ -4,7 +4,9 @@ import Layout from '../fragments/Layout';
 const Wines = () => {
 	return (
 		<Layout>
-			<div>Wines</div>;
+			<div>
+				<p>Wines</p>
+			</div>
 		</Layout>
 	);
 };
