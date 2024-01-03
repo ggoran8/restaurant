@@ -4,6 +4,7 @@
 
 .starters {
 	width: 600px;
+	padding-left: 150px;
 }
 
 .title {
@@ -11,26 +12,24 @@
 	text-transform: uppercase;
 	margin-bottom: 24px;
 	font-size: 40px;
+	border-bottom: 1px solid #5a3a3a;
 }
 
 .list {
 	list-style-type: none;
 	color: white;
-}
-
-li {
 	text-transform: uppercase;
 	font-size: 36px;
 }
 
-p {
+.paragraph {
 	margin-bottom: 16px;
 	font-size: 18px;
 }
 
 .mainCourses {
 	width: 800px;
-	background-color: #1a1616;
+	background-color: #241919;
 	margin-top: 50px;
 	padding: 50px;
 	margin-left: auto;

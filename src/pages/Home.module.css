@@ -1,3 +1,7 @@
+.container {
+	padding: 0 150px;
+}
+
 .title {
 	color: white;
 	margin-bottom: 45px;
@@ -14,4 +18,9 @@
 	grid-template-columns: repeat(3, 1fr);
 	grid-column-gap: 10px;
 	grid-row-gap: 10px;
+}
+
+.foodImages {
+	width: 426px;
+	height: 240px;
 }
