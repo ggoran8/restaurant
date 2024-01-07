@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.f52ae698.css",
+    "main.js": "/restaurant/static/js/main.a2f7535c.js",
+    "static/media/soup.jpeg": "/restaurant/static/media/soup.2fa20becaac1c2b7a627.jpeg",
+    "static/media/fruit.jpeg": "/restaurant/static/media/fruit.5f7dd7ba9af9eb2bd230.jpeg",
+    "static/media/noodles.jpeg": "/restaurant/static/media/noodles.09190335fe682aeba798.jpeg",
+    "static/media/cake.jpeg": "/restaurant/static/media/cake.9bf01513ca2f6750a6e4.jpeg",
+    "static/media/rest.webp": "/restaurant/static/media/rest.2a7065beec5fa63cf2e5.webp",
+    "static/media/burger.jpeg": "/restaurant/static/media/burger.000b9b9e18698bbb8856.jpeg",
+    "static/media/pancakes.jpeg": "/restaurant/static/media/pancakes.62898c51c538c9de5559.jpeg",
+    "index.html": "/restaurant/index.html",
+    "static/media/github.svg": "/restaurant/static/media/github.678001e7b52306104fc34f63060f144b.svg",
+    "static/media/circle.svg": "/restaurant/static/media/circle.82f56c930fbd143664d94a9e5aa81583.svg",
+    "static/media/twitter.svg": "/restaurant/static/media/twitter.cace40f86d59be2debfe5a762e5bc569.svg",
+    "static/media/linkedin.svg": "/restaurant/static/media/linkedin.40a13fa6d0f4d2d559f3eee07c5c359e.svg",
+    "static/media/mail.svg": "/restaurant/static/media/mail.6be2bab72258175fe17cce11a84145f4.svg",
+    "main.f52ae698.css.map": "/restaurant/static/css/main.f52ae698.css.map",
+    "main.a2f7535c.js.map": "/restaurant/static/js/main.a2f7535c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52ae698.css",
+    "static/js/main.a2f7535c.js"
+  ]
+}
