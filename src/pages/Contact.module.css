@@ -69,3 +69,36 @@ textarea {
 	border-radius: 5px;
 	padding: 8px;
 }
+
+@media (max-width: 1024px) {
+	.container {
+		padding: 0;
+	}
+}
+
+@media (max-width: 425px) {
+	.container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		padding: 0;
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.borderPosition {
+		width: 100%;
+	}
+
+	.buttonStyle {
+		width: 100%;
+		border-radius: 5px;
+		padding: 8px;
+	}
+}

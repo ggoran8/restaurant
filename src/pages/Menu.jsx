@@ -33,30 +33,32 @@ const Menu = () => {
 					</ul>
 				</div>
 
-				<div className={menuStyles.mainCourses}>
-					<h2 className={menuStyles.title}>Main Courses</h2>
-					<ul className={menuStyles.list}>
-						<li>Grilled Salmon with Lemon-Dill Sauce</li>
-						<p className={menuStyles.paragraph}>
-							Fresh salmon fillet grilled to perfection, topped with a zesty
-							lemon-dill sauce, and served with sautéed asparagus.
-						</p>
-						<li>Vegetarian Stuffed Bell Peppers</li>
-						<p className={menuStyles.paragraph}>
-							Bell peppers filled with a savory mixture of quinoa, black beans,
-							corn, and spices, baked to perfection.
-						</p>
-						<li>Chicken Marsala</li>
-						<p className={menuStyles.paragraph}>
-							Sautéed chicken breasts in a rich Marsala wine sauce with
-							mushrooms, served with garlic mashed potatoes.
-						</p>
-						<li>Eggplant Parmesan</li>
-						<p className={menuStyles.paragraph}>
-							Layers of breaded and baked eggplant slices topped with marinara
-							sauce and melted mozzarella, served with spaghetti.
-						</p>
-					</ul>
+				<div className={menuStyles.menuBg}>
+					<div className={menuStyles.mainCourses}>
+						<h2 className={menuStyles.title}>Main Courses</h2>
+						<ul className={menuStyles.list}>
+							<li>Grilled Salmon with Lemon-Dill Sauce</li>
+							<p className={menuStyles.paragraph}>
+								Fresh salmon fillet grilled to perfection, topped with a zesty
+								lemon-dill sauce, and served with sautéed asparagus.
+							</p>
+							<li>Vegetarian Stuffed Bell Peppers</li>
+							<p className={menuStyles.paragraph}>
+								Bell peppers filled with a savory mixture of quinoa, black
+								beans, corn, and spices, baked to perfection.
+							</p>
+							<li>Chicken Marsala</li>
+							<p className={menuStyles.paragraph}>
+								Sautéed chicken breasts in a rich Marsala wine sauce with
+								mushrooms, served with garlic mashed potatoes.
+							</p>
+							<li>Eggplant Parmesan</li>
+							<p className={menuStyles.paragraph}>
+								Layers of breaded and baked eggplant slices topped with marinara
+								sauce and melted mozzarella, served with spaghetti.
+							</p>
+						</ul>
+					</div>
 				</div>
 
 				<div className={menuStyles.starters}>
@@ -87,29 +89,31 @@ const Menu = () => {
 					</ul>
 				</div>
 
-				<div className={menuStyles.mainCourses}>
-					<h2 className={menuStyles.title}>Desserts</h2>
-					<ul className={menuStyles.list}>
-						<li>Classic Tiramisu</li>
-						<p className={menuStyles.paragraph}>
-							Layers of espresso-soaked ladyfingers and mascarpone cream, dusted
-							with cocoa powder.
-						</p>
-						<li>Molten Lava Cake</li>
-						<p className={menuStyles.paragraph}>
-							Warm chocolate cake with a gooey, molten center, served with a
-							scoop of vanilla ice cream.
-						</p>
-						<li>Mixed Berry Cheesecake</li>
-						<p className={menuStyles.paragraph}>
-							Creamy cheesecake topped with a medley of fresh berries and a
-							raspberry coulis.
-						</p>
-						<li>Pistachio Crème Brûlée</li>
-						<p className={menuStyles.paragraph}>
-							Silky pistachio-infused custard with a caramelized sugar crust.
-						</p>
-					</ul>
+				<div className={menuStyles.menuBg}>
+					<div className={menuStyles.mainCourses}>
+						<h2 className={menuStyles.title}>Desserts</h2>
+						<ul className={menuStyles.list}>
+							<li>Classic Tiramisu</li>
+							<p className={menuStyles.paragraph}>
+								Layers of espresso-soaked ladyfingers and mascarpone cream,
+								dusted with cocoa powder.
+							</p>
+							<li>Molten Lava Cake</li>
+							<p className={menuStyles.paragraph}>
+								Warm chocolate cake with a gooey, molten center, served with a
+								scoop of vanilla ice cream.
+							</p>
+							<li>Mixed Berry Cheesecake</li>
+							<p className={menuStyles.paragraph}>
+								Creamy cheesecake topped with a medley of fresh berries and a
+								raspberry coulis.
+							</p>
+							<li>Pistachio Crème Brûlée</li>
+							<p className={menuStyles.paragraph}>
+								Silky pistachio-infused custard with a caramelized sugar crust.
+							</p>
+						</ul>
+					</div>
 				</div>
 			</div>
 		</Layout>
